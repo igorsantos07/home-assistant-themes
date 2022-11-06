@@ -272,7 +272,7 @@ Dark Red:
   ha-card-border-radius: 2px
   ha-card-box-shadow: "1px 1px 2px 0px rgba(0,0,0,0.3)"
 
-  primary-color: "#ae2727"
+  primary-color: "#DA5D5D"
   light-primary-color: "#fa5050"
   graph-color: var(--primary-color)
   primary-background-color: "#403939"
